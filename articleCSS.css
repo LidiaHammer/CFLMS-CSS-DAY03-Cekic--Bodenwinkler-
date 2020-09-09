@@ -1,0 +1,14 @@
+body {
+	background-color: #ffd359;
+}
+#textBorder {
+	border: solid 1px;
+}
+h1 {
+	color: orange;
+	font-size: 50px;
+}
+h2 {
+	text-decoration:  underline;
+	color: darkorange;
+}
