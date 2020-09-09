@@ -1,0 +1,24 @@
+#footer {
+	position: absolute;
+    bottom: 10px;
+    width: 100%;
+    height: 40px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+#asideDiv {
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+
+
+}
+#articleDiv {
+	float: left;
+	width: 80%;
+	height: 100px;
+	margin: 10px;
+}
